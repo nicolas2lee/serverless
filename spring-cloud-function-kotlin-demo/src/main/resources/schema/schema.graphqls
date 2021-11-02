@@ -1,0 +1,10 @@
+type Query {
+    funds: [Fund]
+    fund(code: String): Fund
+}
+
+type Fund {
+    chineseName: String
+    code: String
+    pseudo: String
+}

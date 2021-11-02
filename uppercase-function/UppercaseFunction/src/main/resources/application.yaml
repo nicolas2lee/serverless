@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    function:
+      definition: uppercase
+logging:
+  level:
+    root: debug

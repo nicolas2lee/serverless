@@ -1,0 +1,2982 @@
+[
+  {
+    "code": "000001",
+    "chineseName": "华夏成长",
+    "pseudo": "hxcz"
+  },
+  {
+    "code": "000011",
+    "chineseName": "华夏大盘精选",
+    "pseudo": "hxdpjx"
+  },
+  {
+    "code": "000763",
+    "chineseName": "工银新财富灵活配置",
+    "pseudo": "gyxcflhpz"
+  },
+  {
+    "code": "001001",
+    "chineseName": "华夏债券",
+    "pseudo": "hxzq"
+  },
+  {
+    "code": "002001",
+    "chineseName": "华夏回报",
+    "pseudo": "hxhb"
+  },
+  {
+    "code": "002011",
+    "chineseName": "华夏红利",
+    "pseudo": "hxhl"
+  },
+  {
+    "code": "003003",
+    "chineseName": "华夏现金增利",
+    "pseudo": "hxxjzl"
+  },
+  {
+    "code": "020002",
+    "chineseName": "国泰金龙债券",
+    "pseudo": "gtjlzq"
+  },
+  {
+    "code": "020003",
+    "chineseName": "国泰金龙行业",
+    "pseudo": "gtjlxy"
+  },
+  {
+    "code": "020005",
+    "chineseName": "国泰金马基金",
+    "pseudo": "gtjmjj"
+  },
+  {
+    "code": "020006",
+    "chineseName": "国泰金象保本",
+    "pseudo": "gtjxbb"
+  },
+  {
+    "code": "020007",
+    "chineseName": "国泰货币基金",
+    "pseudo": "gthbjj"
+  },
+  {
+    "code": "020008",
+    "chineseName": "国泰金鹿保本",
+    "pseudo": "gtjlbb"
+  },
+  {
+    "code": "020009",
+    "chineseName": "国泰金鹏蓝筹",
+    "pseudo": "gtjplc"
+  },
+  {
+    "code": "040001",
+    "chineseName": "华安创新",
+    "pseudo": "hacx"
+  },
+  {
+    "code": "040002",
+    "chineseName": "华安180",
+    "pseudo": "ha180"
+  },
+  {
+    "code": "040003",
+    "chineseName": "华安富利",
+    "pseudo": "hafl"
+  },
+  {
+    "code": "040004",
+    "chineseName": "华安宝利",
+    "pseudo": "habl"
+  },
+  {
+    "code": "070001",
+    "chineseName": "嘉实成长",
+    "pseudo": "jscz"
+  },
+  {
+    "code": "070002",
+    "chineseName": "嘉实增长",
+    "pseudo": "jszz"
+  },
+  {
+    "code": "070003",
+    "chineseName": "嘉实稳健",
+    "pseudo": "jswj"
+  },
+  {
+    "code": "070005",
+    "chineseName": "嘉实债券",
+    "pseudo": "jszq"
+  },
+  {
+    "code": "070006",
+    "chineseName": "嘉实服务",
+    "pseudo": "jsfw"
+  },
+  {
+    "code": "070007",
+    "chineseName": "嘉实浦安保本",
+    "pseudo": "jspabb"
+  },
+  {
+    "code": "070008",
+    "chineseName": "嘉实货币",
+    "pseudo": "jshb"
+  },
+  {
+    "code": "090006",
+    "chineseName": "大成2020",
+    "pseudo": "dc2020"
+  },
+  {
+    "code": "100016",
+    "chineseName": "富国动态平衡",
+    "pseudo": "fgdtph"
+  },
+  {
+    "code": "100018",
+    "chineseName": "富国天利增长",
+    "pseudo": "fgtlzz"
+  },
+  {
+    "code": "100020",
+    "chineseName": "富国天益价值",
+    "pseudo": "fgtyjz"
+  },
+  {
+    "code": "100022",
+    "chineseName": "富国天瑞强势地区",
+    "pseudo": "fgtrqsdq"
+  },
+  {
+    "code": "100026",
+    "chineseName": "富国天合",
+    "pseudo": "fgth"
+  },
+  {
+    "code": "110001",
+    "chineseName": "易基平稳",
+    "pseudo": "yjpw"
+  },
+  {
+    "code": "110002",
+    "chineseName": "易基策略",
+    "pseudo": "yjcl"
+  },
+  {
+    "code": "110003",
+    "chineseName": "易基50",
+    "pseudo": "yj50"
+  },
+  {
+    "code": "110005",
+    "chineseName": "易基积极",
+    "pseudo": "yjjj"
+  },
+  {
+    "code": "110006",
+    "chineseName": "易基货币",
+    "pseudo": "yjhb"
+  },
+  {
+    "code": "160501",
+    "chineseName": "博时增长",
+    "pseudo": "bszz"
+  },
+  {
+    "code": "160502",
+    "chineseName": "博时裕富基金",
+    "pseudo": "bsyfjj"
+  },
+  {
+    "code": "160503",
+    "chineseName": "博时现金",
+    "pseudo": "bsxj"
+  },
+  {
+    "code": "160504",
+    "chineseName": "博时精选",
+    "pseudo": "bsjx"
+  },
+  {
+    "code": "160505",
+    "chineseName": "博时主题",
+    "pseudo": "bszt"
+  },
+  {
+    "code": "160602",
+    "chineseName": "普天债券",
+    "pseudo": "ptzq"
+  },
+  {
+    "code": "160603",
+    "chineseName": "普天收益",
+    "pseudo": "ptsy"
+  },
+  {
+    "code": "160605",
+    "chineseName": "中国50",
+    "pseudo": "zg50"
+  },
+  {
+    "code": "160606",
+    "chineseName": "鹏华货币",
+    "pseudo": "phhb"
+  },
+  {
+    "code": "160706",
+    "chineseName": "嘉实300",
+    "pseudo": "js300"
+  },
+  {
+    "code": "160901",
+    "chineseName": "大成价值增长",
+    "pseudo": "dcjzzz"
+  },
+  {
+    "code": "160902",
+    "chineseName": "大成债券",
+    "pseudo": "dczq"
+  },
+  {
+    "code": "160903",
+    "chineseName": "大成蓝筹稳健",
+    "pseudo": "dclcwj"
+  },
+  {
+    "code": "160904",
+    "chineseName": "大成精选增值",
+    "pseudo": "dcjxzz"
+  },
+  {
+    "code": "160905",
+    "chineseName": "大成货币",
+    "pseudo": "dchb"
+  },
+  {
+    "code": "161005",
+    "chineseName": "富国天惠",
+    "pseudo": "fgth"
+  },
+  {
+    "code": "161601",
+    "chineseName": "新蓝筹",
+    "pseudo": "xlc"
+  },
+  {
+    "code": "161603",
+    "chineseName": "融通债券",
+    "pseudo": "rtzq"
+  },
+  {
+    "code": "161604",
+    "chineseName": "融通100",
+    "pseudo": "rt100"
+  },
+  {
+    "code": "161605",
+    "chineseName": "融通蓝筹",
+    "pseudo": "rtlc"
+  },
+  {
+    "code": "161606",
+    "chineseName": "融通行业景气基金",
+    "pseudo": "rtxyjqjj"
+  },
+  {
+    "code": "161706",
+    "chineseName": "招商成长",
+    "pseudo": "zscz"
+  },
+  {
+    "code": "161902",
+    "chineseName": "万家保本",
+    "pseudo": "wjbb"
+  },
+  {
+    "code": "161903",
+    "chineseName": "万家公用",
+    "pseudo": "wjgy"
+  },
+  {
+    "code": "162207",
+    "chineseName": "荷银效率",
+    "pseudo": "hyxl"
+  },
+  {
+    "code": "162208",
+    "chineseName": "荷银首选",
+    "pseudo": "hysx"
+  },
+  {
+    "code": "162401",
+    "chineseName": "宝康消费",
+    "pseudo": "bkxf"
+  },
+  {
+    "code": "162402",
+    "chineseName": "灵活配置",
+    "pseudo": "lhpz"
+  },
+  {
+    "code": "162403",
+    "chineseName": "宝康债券",
+    "pseudo": "bkzq"
+  },
+  {
+    "code": "162607",
+    "chineseName": "景顺资源",
+    "pseudo": "jszy"
+  },
+  {
+    "code": "162703",
+    "chineseName": "广发小盘基金",
+    "pseudo": "gfxpjj"
+  },
+  {
+    "code": "163402",
+    "chineseName": "兴业趋势",
+    "pseudo": "xyqs"
+  },
+  {
+    "code": "163503",
+    "chineseName": "天治核心",
+    "pseudo": "tzhx"
+  },
+  {
+    "code": "163801",
+    "chineseName": "中银中国",
+    "pseudo": "zyzg"
+  },
+  {
+    "code": "163803",
+    "chineseName": "中银增长",
+    "pseudo": "zyzz"
+  },
+  {
+    "code": "163804",
+    "chineseName": "中银收益",
+    "pseudo": "zysy"
+  },
+  {
+    "code": "180010",
+    "chineseName": "银华优质增长",
+    "pseudo": "yhyzzz"
+  },
+  {
+    "code": "180012",
+    "chineseName": "银华富裕主题",
+    "pseudo": "yhfyzt"
+  },
+  {
+    "code": "184689",
+    "chineseName": "基金普惠",
+    "pseudo": "jjph"
+  },
+  {
+    "code": "184690",
+    "chineseName": "基金同益",
+    "pseudo": "jjty"
+  },
+  {
+    "code": "184691",
+    "chineseName": "基金景宏",
+    "pseudo": "jjjh"
+  },
+  {
+    "code": "184692",
+    "chineseName": "基金裕隆",
+    "pseudo": "jjyl"
+  },
+  {
+    "code": "184693",
+    "chineseName": "基金普丰",
+    "pseudo": "jjpf"
+  },
+  {
+    "code": "184695",
+    "chineseName": "基金景博",
+    "pseudo": "jjjb"
+  },
+  {
+    "code": "184696",
+    "chineseName": "基金裕华",
+    "pseudo": "jjyh"
+  },
+  {
+    "code": "184699",
+    "chineseName": "基金同盛",
+    "pseudo": "jjts"
+  },
+  {
+    "code": "184701",
+    "chineseName": "基金景福",
+    "pseudo": "jjjf"
+  },
+  {
+    "code": "184702",
+    "chineseName": "基金同智",
+    "pseudo": "jjtz"
+  },
+  {
+    "code": "184703",
+    "chineseName": "基金金盛",
+    "pseudo": "jjjs"
+  },
+  {
+    "code": "184705",
+    "chineseName": "基金裕泽",
+    "pseudo": "jjyz"
+  },
+  {
+    "code": "184706",
+    "chineseName": "基金天华",
+    "pseudo": "jjth"
+  },
+  {
+    "code": "184708",
+    "chineseName": "基金兴科",
+    "pseudo": "jjxk"
+  },
+  {
+    "code": "184709",
+    "chineseName": "基金安久",
+    "pseudo": "jjaj"
+  },
+  {
+    "code": "184711",
+    "chineseName": "基金普华",
+    "pseudo": "jjph"
+  },
+  {
+    "code": "184712",
+    "chineseName": "基金科汇",
+    "pseudo": "jjkh"
+  },
+  {
+    "code": "184713",
+    "chineseName": "基金科翔",
+    "pseudo": "jjkx"
+  },
+  {
+    "code": "184718",
+    "chineseName": "基金兴安",
+    "pseudo": "jjxa"
+  },
+  {
+    "code": "184738",
+    "chineseName": "基金通宝",
+    "pseudo": "jjtb"
+  },
+  {
+    "code": "206001",
+    "chineseName": "鹏华行业成长",
+    "pseudo": "phxycz"
+  },
+  {
+    "code": "257030",
+    "chineseName": "德盛优势",
+    "pseudo": "dsys"
+  },
+  {
+    "code": "288102",
+    "chineseName": "中信稳定双利基金",
+    "pseudo": "zxwdsljj"
+  },
+  {
+    "code": "310308",
+    "chineseName": "盛利精选",
+    "pseudo": "sljx"
+  },
+  {
+    "code": "310318",
+    "chineseName": "盛利配置",
+    "pseudo": "slpz"
+  },
+  {
+    "code": "310328",
+    "chineseName": "新动力",
+    "pseudo": "xdl"
+  },
+  {
+    "code": "310358",
+    "chineseName": "新经济",
+    "pseudo": "xjj"
+  },
+  {
+    "code": "350001",
+    "chineseName": "天治财富增长",
+    "pseudo": "tzcfzz"
+  },
+  {
+    "code": "350002",
+    "chineseName": "天治品质优选",
+    "pseudo": "tzpzyx"
+  },
+  {
+    "code": "370023",
+    "chineseName": "上投摩根中证消费",
+    "pseudo": "stmgzzxf"
+  },
+  {
+    "code": "420001",
+    "chineseName": "天弘精选",
+    "pseudo": "thjx"
+  },
+  {
+    "code": "460002",
+    "chineseName": "友邦成长",
+    "pseudo": "ybcz"
+  },
+  {
+    "code": "500001",
+    "chineseName": "基金金泰",
+    "pseudo": "jjjt"
+  },
+  {
+    "code": "500002",
+    "chineseName": "基金泰和",
+    "pseudo": "jjth"
+  },
+  {
+    "code": "500003",
+    "chineseName": "基金安信",
+    "pseudo": "jjax"
+  },
+  {
+    "code": "500005",
+    "chineseName": "基金汉盛",
+    "pseudo": "jjhs"
+  },
+  {
+    "code": "500006",
+    "chineseName": "基金裕阳",
+    "pseudo": "jjyy"
+  },
+  {
+    "code": "500008",
+    "chineseName": "基金兴华",
+    "pseudo": "jjxh"
+  },
+  {
+    "code": "500009",
+    "chineseName": "基金安顺",
+    "pseudo": "jjas"
+  },
+  {
+    "code": "500010",
+    "chineseName": "基金金元",
+    "pseudo": "jjjy"
+  },
+  {
+    "code": "500011",
+    "chineseName": "基金金鑫",
+    "pseudo": "jjjx"
+  },
+  {
+    "code": "500013",
+    "chineseName": "基金安瑞",
+    "pseudo": "jjar"
+  },
+  {
+    "code": "500015",
+    "chineseName": "基金汉兴",
+    "pseudo": "jjhx"
+  },
+  {
+    "code": "500016",
+    "chineseName": "基金裕元",
+    "pseudo": "jjyy"
+  },
+  {
+    "code": "500017",
+    "chineseName": "基金景业",
+    "pseudo": "jjjy"
+  },
+  {
+    "code": "500018",
+    "chineseName": "基金兴和",
+    "pseudo": "jjxh"
+  },
+  {
+    "code": "500019",
+    "chineseName": "基金普润",
+    "pseudo": "jjpr"
+  },
+  {
+    "code": "500021",
+    "chineseName": "基金金鼎",
+    "pseudo": "jjjd"
+  },
+  {
+    "code": "500025",
+    "chineseName": "基金汉鼎",
+    "pseudo": "jjhd"
+  },
+  {
+    "code": "500028",
+    "chineseName": "基金兴业",
+    "pseudo": "jjxy"
+  },
+  {
+    "code": "500029",
+    "chineseName": "基金科讯",
+    "pseudo": "jjkx"
+  },
+  {
+    "code": "500035",
+    "chineseName": "基金汉博",
+    "pseudo": "jjhb"
+  },
+  {
+    "code": "500038",
+    "chineseName": "基金通乾",
+    "pseudo": "jjtq"
+  },
+  {
+    "code": "500039",
+    "chineseName": "基金同德",
+    "pseudo": "jjtd"
+  },
+  {
+    "code": "500056",
+    "chineseName": "基金科瑞",
+    "pseudo": "jjkr"
+  },
+  {
+    "code": "500058",
+    "chineseName": "基金银丰",
+    "pseudo": "jjyf"
+  },
+  {
+    "code": "501000",
+    "chineseName": "国金鑫新",
+    "pseudo": "gjxx"
+  },
+  {
+    "code": "501000",
+    "chineseName": "国金鑫新",
+    "pseudo": "gjxx"
+  },
+  {
+    "code": "501001",
+    "chineseName": "财通精选",
+    "pseudo": "ctjx"
+  },
+  {
+    "code": "501002",
+    "chineseName": "能源互联",
+    "pseudo": "nyhl"
+  },
+  {
+    "code": "501003",
+    "chineseName": "上海改革",
+    "pseudo": "shgg"
+  },
+  {
+    "code": "501005",
+    "chineseName": "精准医疗",
+    "pseudo": "jzyl"
+  },
+  {
+    "code": "501006",
+    "chineseName": "精准医C",
+    "pseudo": "jzyC"
+  },
+  {
+    "code": "501007",
+    "chineseName": "互联医疗",
+    "pseudo": "hlyl"
+  },
+  {
+    "code": "501008",
+    "chineseName": "互联医C",
+    "pseudo": "hlyC"
+  },
+  {
+    "code": "501009",
+    "chineseName": "生物科技",
+    "pseudo": "swkj"
+  },
+  {
+    "code": "501010",
+    "chineseName": "生物科C",
+    "pseudo": "swkC"
+  },
+  {
+    "code": "501011",
+    "chineseName": "中药基金",
+    "pseudo": "zyjj"
+  },
+  {
+    "code": "501012",
+    "chineseName": "中药C",
+    "pseudo": "zyC"
+  },
+  {
+    "code": "501015",
+    "chineseName": "财通升级",
+    "pseudo": "ctsj"
+  },
+  {
+    "code": "501016",
+    "chineseName": "券商基金",
+    "pseudo": "qsjj"
+  },
+  {
+    "code": "501017",
+    "chineseName": "国泰融丰",
+    "pseudo": "gtrf"
+  },
+  {
+    "code": "501018",
+    "chineseName": "南方原油",
+    "pseudo": "nfyy"
+  },
+  {
+    "code": "501019",
+    "chineseName": "军工基金",
+    "pseudo": "jgjj"
+  },
+  {
+    "code": "501020",
+    "chineseName": "国企改",
+    "pseudo": "gqg"
+  },
+  {
+    "code": "501021",
+    "chineseName": "香港中小",
+    "pseudo": "xgzx"
+  },
+  {
+    "code": "501022",
+    "chineseName": "银华鑫盛",
+    "pseudo": "yhxs"
+  },
+  {
+    "code": "501023",
+    "chineseName": "港中小企",
+    "pseudo": "gzxq"
+  },
+  {
+    "code": "501025",
+    "chineseName": "香港银行",
+    "pseudo": "xgyx"
+  },
+  {
+    "code": "501026",
+    "chineseName": "财通福享",
+    "pseudo": "ctfx"
+  },
+  {
+    "code": "501027",
+    "chineseName": "国泰融信",
+    "pseudo": "gtrx"
+  },
+  {
+    "code": "501028",
+    "chineseName": "财通福瑞",
+    "pseudo": "ctfr"
+  },
+  {
+    "code": "501029",
+    "chineseName": "红利基金",
+    "pseudo": "hljj"
+  },
+  {
+    "code": "501030",
+    "chineseName": "环境治理",
+    "pseudo": "hjzl"
+  },
+  {
+    "code": "501031",
+    "chineseName": "环境C",
+    "pseudo": "hjC"
+  },
+  {
+    "code": "501032",
+    "chineseName": "财通福盛",
+    "pseudo": "ctfs"
+  },
+  {
+    "code": "501033",
+    "chineseName": "银华惠安",
+    "pseudo": "yhha"
+  },
+  {
+    "code": "501035",
+    "chineseName": "创金睿选",
+    "pseudo": "cjrx"
+  },
+  {
+    "code": "501050",
+    "chineseName": "50AH",
+    "pseudo": "50AH"
+  },
+  {
+    "code": "501100",
+    "chineseName": "安康",
+    "pseudo": "ak"
+  },
+  {
+    "code": "501101",
+    "chineseName": "政债一三",
+    "pseudo": "zzys"
+  },
+  {
+    "code": "501102",
+    "chineseName": "政债三五",
+    "pseudo": "zzsw"
+  },
+  {
+    "code": "501103",
+    "chineseName": "政债五八",
+    "pseudo": "zzwb"
+  },
+  {
+    "code": "501105",
+    "chineseName": "政债八十",
+    "pseudo": "zzbs"
+  },
+  {
+    "code": "501300",
+    "chineseName": "美元债",
+    "pseudo": "myz"
+  },
+  {
+    "code": "501301",
+    "chineseName": "香港大盘",
+    "pseudo": "xgdp"
+  },
+  {
+    "code": "501302",
+    "chineseName": "恒生联接",
+    "pseudo": "hslj"
+  },
+  {
+    "code": "502000",
+    "chineseName": "500等权",
+    "pseudo": "500dq"
+  },
+  {
+    "code": "502003",
+    "chineseName": "军工分级",
+    "pseudo": "jgfj"
+  },
+  {
+    "code": "502006",
+    "chineseName": "国企改革",
+    "pseudo": "gqgg"
+  },
+  {
+    "code": "502010",
+    "chineseName": "证券分级",
+    "pseudo": "zqfj"
+  },
+  {
+    "code": "502013",
+    "chineseName": "一带一路",
+    "pseudo": "ydyl"
+  },
+  {
+    "code": "502016",
+    "chineseName": "带路分级",
+    "pseudo": "dlfj"
+  },
+  {
+    "code": "502017",
+    "chineseName": "带路A",
+    "pseudo": "dlA"
+  },
+  {
+    "code": "502018",
+    "chineseName": "带路B",
+    "pseudo": "dlB"
+  },
+  {
+    "code": "502020",
+    "chineseName": "国金50",
+    "pseudo": "gj50"
+  },
+  {
+    "code": "502023",
+    "chineseName": "钢铁分级",
+    "pseudo": "gtfj"
+  },
+  {
+    "code": "502026",
+    "chineseName": "新丝路",
+    "pseudo": "xsl"
+  },
+  {
+    "code": "502030",
+    "chineseName": "高铁分级",
+    "pseudo": "gtfj"
+  },
+  {
+    "code": "502036",
+    "chineseName": "互联金融",
+    "pseudo": "hljr"
+  },
+  {
+    "code": "502040",
+    "chineseName": "上50分级",
+    "pseudo": "s50fj"
+  },
+  {
+    "code": "502048",
+    "chineseName": "50分级",
+    "pseudo": "50fj"
+  },
+  {
+    "code": "502053",
+    "chineseName": "券商分级",
+    "pseudo": "qsfj"
+  },
+  {
+    "code": "502056",
+    "chineseName": "医疗分级",
+    "pseudo": "ylfj"
+  },
+  {
+    "code": "505888",
+    "chineseName": "嘉实元和",
+    "pseudo": "jsyh"
+  },
+  {
+    "code": "510010",
+    "chineseName": "治理ETF",
+    "pseudo": "zlETF"
+  },
+  {
+    "code": "510020",
+    "chineseName": "超大ETF",
+    "pseudo": "cdETF"
+  },
+  {
+    "code": "510030",
+    "chineseName": "价值ETF",
+    "pseudo": "jzETF"
+  },
+  {
+    "code": "510050",
+    "chineseName": "50ETF",
+    "pseudo": "50ETF"
+  },
+  {
+    "code": "510060",
+    "chineseName": "央企ETF",
+    "pseudo": "yqETF"
+  },
+  {
+    "code": "510070",
+    "chineseName": "民企ETF",
+    "pseudo": "mqETF"
+  },
+  {
+    "code": "510090",
+    "chineseName": "责任ETF",
+    "pseudo": "zrETF"
+  },
+  {
+    "code": "510110",
+    "chineseName": "周期ETF",
+    "pseudo": "zqETF"
+  },
+  {
+    "code": "510120",
+    "chineseName": "非周ETF",
+    "pseudo": "fzETF"
+  },
+  {
+    "code": "510130",
+    "chineseName": "中盘ETF",
+    "pseudo": "zpETF"
+  },
+  {
+    "code": "510150",
+    "chineseName": "消费ETF",
+    "pseudo": "xfETF"
+  },
+  {
+    "code": "510160",
+    "chineseName": "小康ETF",
+    "pseudo": "xkETF"
+  },
+  {
+    "code": "510170",
+    "chineseName": "商品ETF",
+    "pseudo": "spETF"
+  },
+  {
+    "code": "510180",
+    "chineseName": "180ETF",
+    "pseudo": "180ETF"
+  },
+  {
+    "code": "510190",
+    "chineseName": "龙头ETF",
+    "pseudo": "ltETF"
+  },
+  {
+    "code": "510210",
+    "chineseName": "综指ETF",
+    "pseudo": "zzETF"
+  },
+  {
+    "code": "510220",
+    "chineseName": "中小ETF",
+    "pseudo": "zxETF"
+  },
+  {
+    "code": "510230",
+    "chineseName": "金融ETF",
+    "pseudo": "jrETF"
+  },
+  {
+    "code": "510260",
+    "chineseName": "新兴ETF",
+    "pseudo": "xxETF"
+  },
+  {
+    "code": "510270",
+    "chineseName": "国企ETF",
+    "pseudo": "gqETF"
+  },
+  {
+    "code": "510280",
+    "chineseName": "成长ETF",
+    "pseudo": "czETF"
+  },
+  {
+    "code": "510290",
+    "chineseName": "380ETF",
+    "pseudo": "380ETF"
+  },
+  {
+    "code": "510300",
+    "chineseName": "300ETF",
+    "pseudo": "300ETF"
+  },
+  {
+    "code": "510310",
+    "chineseName": "HS300ETF",
+    "pseudo": "HS300ETF"
+  },
+  {
+    "code": "510330",
+    "chineseName": "华夏300",
+    "pseudo": "hx300"
+  },
+  {
+    "code": "510360",
+    "chineseName": "广发300",
+    "pseudo": "gf300"
+  },
+  {
+    "code": "510410",
+    "chineseName": "资源ETF",
+    "pseudo": "zyETF"
+  },
+  {
+    "code": "510420",
+    "chineseName": "180EWETF ",
+    "pseudo": "180EWETF "
+  },
+  {
+    "code": "510430",
+    "chineseName": "50等权",
+    "pseudo": "50dq"
+  },
+  {
+    "code": "510440",
+    "chineseName": "500沪市",
+    "pseudo": "500hs"
+  },
+  {
+    "code": "510450",
+    "chineseName": "180高ETF",
+    "pseudo": "180gETF"
+  },
+  {
+    "code": "510500",
+    "chineseName": "500ETF",
+    "pseudo": "500ETF"
+  },
+  {
+    "code": "510510",
+    "chineseName": "广发500",
+    "pseudo": "gf500"
+  },
+  {
+    "code": "510513",
+    "chineseName": "广发500",
+    "pseudo": "gf500"
+  },
+  {
+    "code": "510520",
+    "chineseName": "诺安500",
+    "pseudo": "na500"
+  },
+  {
+    "code": "510560",
+    "chineseName": "国寿500",
+    "pseudo": "gs500"
+  },
+  {
+    "code": "510580",
+    "chineseName": "ZZ500ETF",
+    "pseudo": "ZZ500ETF"
+  },
+  {
+    "code": "510610",
+    "chineseName": "能源行业",
+    "pseudo": "nyxy"
+  },
+  {
+    "code": "510620",
+    "chineseName": "材料行业",
+    "pseudo": "clxy"
+  },
+  {
+    "code": "510630",
+    "chineseName": "消费行业",
+    "pseudo": "xfxy"
+  },
+  {
+    "code": "510650",
+    "chineseName": "金融行业",
+    "pseudo": "jrxy"
+  },
+  {
+    "code": "510660",
+    "chineseName": "医药行业",
+    "pseudo": "yyxy"
+  },
+  {
+    "code": "510680",
+    "chineseName": "万家50",
+    "pseudo": "wj50"
+  },
+  {
+    "code": "510700",
+    "chineseName": "百强ETF",
+    "pseudo": "bqETF"
+  },
+  {
+    "code": "510710",
+    "chineseName": "上50ETF",
+    "pseudo": "s50ETF"
+  },
+  {
+    "code": "510810",
+    "chineseName": "上海国企",
+    "pseudo": "shgq"
+  },
+  {
+    "code": "510880",
+    "chineseName": "红利ETF",
+    "pseudo": "hlETF"
+  },
+  {
+    "code": "510900",
+    "chineseName": "H股ETF",
+    "pseudo": "HgETF"
+  },
+  {
+    "code": "511010",
+    "chineseName": "国债ETF",
+    "pseudo": "gzETF"
+  },
+  {
+    "code": "511210",
+    "chineseName": "企债ETF",
+    "pseudo": "qzETF"
+  },
+  {
+    "code": "511220",
+    "chineseName": "城投ETF",
+    "pseudo": "ctETF"
+  },
+  {
+    "code": "511230",
+    "chineseName": "周期债",
+    "pseudo": "zqz"
+  },
+  {
+    "code": "511230",
+    "chineseName": "周期债",
+    "pseudo": "zqz"
+  },
+  {
+    "code": "511230",
+    "chineseName": "周期债",
+    "pseudo": "zqz"
+  },
+  {
+    "code": "511600",
+    "chineseName": "货币ETF",
+    "pseudo": "hbETF"
+  },
+  {
+    "code": "511650",
+    "chineseName": "华夏快线",
+    "pseudo": "hxkx"
+  },
+  {
+    "code": "511660",
+    "chineseName": "建信添益",
+    "pseudo": "jxty"
+  },
+  {
+    "code": "511680",
+    "chineseName": "安信货币",
+    "pseudo": "axhb"
+  },
+  {
+    "code": "511690",
+    "chineseName": "交易货币",
+    "pseudo": "jyhb"
+  },
+  {
+    "code": "511700",
+    "chineseName": "场内货币",
+    "pseudo": "cnhb"
+  },
+  {
+    "code": "511760",
+    "chineseName": "德邦货币",
+    "pseudo": "dbhb"
+  },
+  {
+    "code": "511770",
+    "chineseName": "金鹰增益",
+    "pseudo": "jyzy"
+  },
+  {
+    "code": "511800",
+    "chineseName": "易货币",
+    "pseudo": "yhb"
+  },
+  {
+    "code": "511810",
+    "chineseName": "南方理财金货币ETF",
+    "pseudo": "nflcjhbETF"
+  },
+  {
+    "code": "511820",
+    "chineseName": "鹏华添利",
+    "pseudo": "phtl"
+  },
+  {
+    "code": "511820",
+    "chineseName": "鹏华添利",
+    "pseudo": "phtl"
+  },
+  {
+    "code": "511830",
+    "chineseName": "华泰货币",
+    "pseudo": "hthb"
+  },
+  {
+    "code": "511830",
+    "chineseName": "华泰货币",
+    "pseudo": "hthb"
+  },
+  {
+    "code": "511850",
+    "chineseName": "财富宝E",
+    "pseudo": "cfbE"
+  },
+  {
+    "code": "511860",
+    "chineseName": "博时货币",
+    "pseudo": "bshb"
+  },
+  {
+    "code": "511880",
+    "chineseName": "银华日利",
+    "pseudo": "yhrl"
+  },
+  {
+    "code": "511890",
+    "chineseName": "景顺货币",
+    "pseudo": "jshb"
+  },
+  {
+    "code": "511890",
+    "chineseName": "景顺货币",
+    "pseudo": "jshb"
+  },
+  {
+    "code": "511900",
+    "chineseName": "富国货币",
+    "pseudo": "fghb"
+  },
+  {
+    "code": "511910",
+    "chineseName": "融通货币",
+    "pseudo": "rthb"
+  },
+  {
+    "code": "511920",
+    "chineseName": "广发货币",
+    "pseudo": "gfhb"
+  },
+  {
+    "code": "511930",
+    "chineseName": "中融日盈",
+    "pseudo": "zrry"
+  },
+  {
+    "code": "511950",
+    "chineseName": "广发添利",
+    "pseudo": "gftl"
+  },
+  {
+    "code": "511960",
+    "chineseName": "嘉实快线",
+    "pseudo": "jskx"
+  },
+  {
+    "code": "511970",
+    "chineseName": "国寿货币",
+    "pseudo": "gshb"
+  },
+  {
+    "code": "511980",
+    "chineseName": "现金添富",
+    "pseudo": "xjtf"
+  },
+  {
+    "code": "511990",
+    "chineseName": "华宝添益",
+    "pseudo": "hbty"
+  },
+  {
+    "code": "512000",
+    "chineseName": "券商ETF",
+    "pseudo": "qsETF"
+  },
+  {
+    "code": "512010",
+    "chineseName": "医药ETF",
+    "pseudo": "yyETF"
+  },
+  {
+    "code": "512070",
+    "chineseName": "非银ETF",
+    "pseudo": "fyETF"
+  },
+  {
+    "code": "512100",
+    "chineseName": "1000ETF",
+    "pseudo": "1000ETF"
+  },
+  {
+    "code": "512110",
+    "chineseName": "中证地产",
+    "pseudo": "zzdc"
+  },
+  {
+    "code": "512120",
+    "chineseName": "中证医药",
+    "pseudo": "zzyy"
+  },
+  {
+    "code": "512200",
+    "chineseName": "房地产",
+    "pseudo": "fdc"
+  },
+  {
+    "code": "512210",
+    "chineseName": "景顺食品",
+    "pseudo": "jssp"
+  },
+  {
+    "code": "512220",
+    "chineseName": "景顺TMT",
+    "pseudo": "jsTMT"
+  },
+  {
+    "code": "512230",
+    "chineseName": "景顺医药",
+    "pseudo": "jsyy"
+  },
+  {
+    "code": "512300",
+    "chineseName": "500医药",
+    "pseudo": "500yy"
+  },
+  {
+    "code": "512310",
+    "chineseName": "500工业ETF",
+    "pseudo": "500gyETF"
+  },
+  {
+    "code": "512330",
+    "chineseName": "500信息ETF",
+    "pseudo": "500xxETF"
+  },
+  {
+    "code": "512340",
+    "chineseName": "500原料ETF",
+    "pseudo": "500ylETF"
+  },
+  {
+    "code": "512400",
+    "chineseName": "有色金属",
+    "pseudo": "ysjs"
+  },
+  {
+    "code": "512500",
+    "chineseName": "中证500",
+    "pseudo": "zz500"
+  },
+  {
+    "code": "512510",
+    "chineseName": "ETF500",
+    "pseudo": "ETF500"
+  },
+  {
+    "code": "512550",
+    "chineseName": "富时A50",
+    "pseudo": "fsA50"
+  },
+  {
+    "code": "512580",
+    "chineseName": "环保ETF",
+    "pseudo": "hbETF"
+  },
+  {
+    "code": "512600",
+    "chineseName": "主要消费",
+    "pseudo": "zyxf"
+  },
+  {
+    "code": "512610",
+    "chineseName": "医药卫生",
+    "pseudo": "yyws"
+  },
+  {
+    "code": "512640",
+    "chineseName": "金融地产",
+    "pseudo": "jrdc"
+  },
+  {
+    "code": "512660",
+    "chineseName": "军工ETF",
+    "pseudo": "jgETF"
+  },
+  {
+    "code": "512680",
+    "chineseName": "军工基金",
+    "pseudo": "jgjj"
+  },
+  {
+    "code": "512700",
+    "chineseName": "银行基金",
+    "pseudo": "yxjj"
+  },
+  {
+    "code": "512800",
+    "chineseName": "银行ETF",
+    "pseudo": "yxETF"
+  },
+  {
+    "code": "512810",
+    "chineseName": "军工行业",
+    "pseudo": "jgxy"
+  },
+  {
+    "code": "512880",
+    "chineseName": "证券ETF",
+    "pseudo": "zqETF"
+  },
+  {
+    "code": "512900",
+    "chineseName": "证券基金",
+    "pseudo": "zqjj"
+  },
+  {
+    "code": "512990",
+    "chineseName": "MSCIA股",
+    "pseudo": "MSCIAg"
+  },
+  {
+    "code": "513030",
+    "chineseName": "德国30",
+    "pseudo": "dg30"
+  },
+  {
+    "code": "513050",
+    "chineseName": "中概互联",
+    "pseudo": "zghl"
+  },
+  {
+    "code": "513100",
+    "chineseName": "纳指ETF",
+    "pseudo": "nzETF"
+  },
+  {
+    "code": "513500",
+    "chineseName": "标普500",
+    "pseudo": "bp500"
+  },
+  {
+    "code": "513600",
+    "chineseName": "恒指ETF",
+    "pseudo": "hzETF"
+  },
+  {
+    "code": "513660",
+    "chineseName": "恒生通",
+    "pseudo": "hst"
+  },
+  {
+    "code": "518800",
+    "chineseName": "国泰黄金",
+    "pseudo": "gthj"
+  },
+  {
+    "code": "518880",
+    "chineseName": "黄金ETF",
+    "pseudo": "hjETF"
+  },
+  {
+    "code": "519002",
+    "chineseName": "华安安信消费服务股票",
+    "pseudo": "haaxxffwgp"
+  },
+  {
+    "code": "519005",
+    "chineseName": "海富股票",
+    "pseudo": "hfgp"
+  },
+  {
+    "code": "519007",
+    "chineseName": "海富回报",
+    "pseudo": "hfhb"
+  },
+  {
+    "code": "519008",
+    "chineseName": "添富优势",
+    "pseudo": "tfys"
+  },
+  {
+    "code": "519011",
+    "chineseName": "海富精选",
+    "pseudo": "hfjx"
+  },
+  {
+    "code": "519013",
+    "chineseName": "海富优势",
+    "pseudo": "hfys"
+  },
+  {
+    "code": "519015",
+    "chineseName": "海富贰号",
+    "pseudo": "hfeh"
+  },
+  {
+    "code": "519017",
+    "chineseName": "大成成长",
+    "pseudo": "dccz"
+  },
+  {
+    "code": "519018",
+    "chineseName": "添富均衡",
+    "pseudo": "tfjh"
+  },
+  {
+    "code": "519019",
+    "chineseName": "大成景阳",
+    "pseudo": "dcjy"
+  },
+  {
+    "code": "519020",
+    "chineseName": "国泰金泰",
+    "pseudo": "gtjt"
+  },
+  {
+    "code": "519021",
+    "chineseName": "金鼎价值",
+    "pseudo": "jdjz"
+  },
+  {
+    "code": "519023",
+    "chineseName": "海富债券",
+    "pseudo": "hfzq"
+  },
+  {
+    "code": "519025",
+    "chineseName": "海富领先",
+    "pseudo": "hflx"
+  },
+  {
+    "code": "519026",
+    "chineseName": "海富小盘",
+    "pseudo": "hfxp"
+  },
+  {
+    "code": "519027",
+    "chineseName": "海富周期",
+    "pseudo": "hfzq"
+  },
+  {
+    "code": "519028",
+    "chineseName": "华夏稳增",
+    "pseudo": "hxwz"
+  },
+  {
+    "code": "519029",
+    "chineseName": "华夏稳增",
+    "pseudo": "hxwz"
+  },
+  {
+    "code": "519030",
+    "chineseName": "海富稳固",
+    "pseudo": "hfwg"
+  },
+  {
+    "code": "519032",
+    "chineseName": "海富非周",
+    "pseudo": "hffz"
+  },
+  {
+    "code": "519033",
+    "chineseName": "海富国策",
+    "pseudo": "hfgc"
+  },
+  {
+    "code": "519034",
+    "chineseName": "海富低碳",
+    "pseudo": "hfdt"
+  },
+  {
+    "code": "519035",
+    "chineseName": "富国天博",
+    "pseudo": "fgtb"
+  },
+  {
+    "code": "519039",
+    "chineseName": "长盛同德",
+    "pseudo": "zstd"
+  },
+  {
+    "code": "519050",
+    "chineseName": "海富养老",
+    "pseudo": "hfyl"
+  },
+  {
+    "code": "519051",
+    "chineseName": "海富定期",
+    "pseudo": "hfdq"
+  },
+  {
+    "code": "519052",
+    "chineseName": "海富利A",
+    "pseudo": "hflA"
+  },
+  {
+    "code": "519053",
+    "chineseName": "海富利B",
+    "pseudo": "hflB"
+  },
+  {
+    "code": "519054",
+    "chineseName": "海富双利",
+    "pseudo": "hfsl"
+  },
+  {
+    "code": "519055",
+    "chineseName": "海富双利",
+    "pseudo": "hfsl"
+  },
+  {
+    "code": "519056",
+    "chineseName": "海富内需",
+    "pseudo": "hfnx"
+  },
+  {
+    "code": "519057",
+    "chineseName": "海富福A ",
+    "pseudo": "hffA "
+  },
+  {
+    "code": "519058",
+    "chineseName": "海富福B ",
+    "pseudo": "hffB "
+  },
+  {
+    "code": "519059",
+    "chineseName": "海富双福",
+    "pseudo": "hfsf"
+  },
+  {
+    "code": "519060",
+    "chineseName": "海富纯C",
+    "pseudo": "hfcC"
+  },
+  {
+    "code": "519061",
+    "chineseName": "海富纯A",
+    "pseudo": "hfcA"
+  },
+  {
+    "code": "519062",
+    "chineseName": "海富对冲",
+    "pseudo": "hfdc"
+  },
+  {
+    "code": "519066",
+    "chineseName": "添富蓝筹",
+    "pseudo": "tflc"
+  },
+  {
+    "code": "519068",
+    "chineseName": "添富焦点",
+    "pseudo": "tfjd"
+  },
+  {
+    "code": "519069",
+    "chineseName": "添富价值",
+    "pseudo": "tfjz"
+  },
+  {
+    "code": "519078",
+    "chineseName": "添富增收",
+    "pseudo": "tfzs"
+  },
+  {
+    "code": "519087",
+    "chineseName": "新华分红",
+    "pseudo": "xhfh"
+  },
+  {
+    "code": "519089",
+    "chineseName": "新华成长",
+    "pseudo": "xhcz"
+  },
+  {
+    "code": "519093",
+    "chineseName": "新华钻石",
+    "pseudo": "xhzs"
+  },
+  {
+    "code": "519095",
+    "chineseName": "新华行业",
+    "pseudo": "xhxy"
+  },
+  {
+    "code": "519097",
+    "chineseName": "新华市值",
+    "pseudo": "xhsz"
+  },
+  {
+    "code": "519099",
+    "chineseName": "新华主题",
+    "pseudo": "xhzt"
+  },
+  {
+    "code": "519100",
+    "chineseName": "长盛100",
+    "pseudo": "zs100"
+  },
+  {
+    "code": "519110",
+    "chineseName": "浦银价值",
+    "pseudo": "pyjz"
+  },
+  {
+    "code": "519111",
+    "chineseName": "浦银收益",
+    "pseudo": "pysy"
+  },
+  {
+    "code": "519112",
+    "chineseName": "收益债C",
+    "pseudo": "syzC"
+  },
+  {
+    "code": "519113",
+    "chineseName": "浦银生活",
+    "pseudo": "pysh"
+  },
+  {
+    "code": "519115",
+    "chineseName": "浦银红利",
+    "pseudo": "pyhl"
+  },
+  {
+    "code": "519116",
+    "chineseName": "浦银300",
+    "pseudo": "py300"
+  },
+  {
+    "code": "519117",
+    "chineseName": "浦银400",
+    "pseudo": "py400"
+  },
+  {
+    "code": "519118",
+    "chineseName": "幸福债A",
+    "pseudo": "xfzA"
+  },
+  {
+    "code": "519119",
+    "chineseName": "幸福债B",
+    "pseudo": "xfzB"
+  },
+  {
+    "code": "519120",
+    "chineseName": "新兴产业",
+    "pseudo": "xxcy"
+  },
+  {
+    "code": "519121",
+    "chineseName": "6月债A",
+    "pseudo": "6yzA"
+  },
+  {
+    "code": "519122",
+    "chineseName": "6月债C",
+    "pseudo": "6yzC"
+  },
+  {
+    "code": "519123",
+    "chineseName": "浦银添A",
+    "pseudo": "pytA"
+  },
+  {
+    "code": "519124",
+    "chineseName": "浦银添C",
+    "pseudo": "pytC"
+  },
+  {
+    "code": "519125",
+    "chineseName": "浦银消费",
+    "pseudo": "pyxf"
+  },
+  {
+    "code": "519126",
+    "chineseName": "新经济",
+    "pseudo": "xjj"
+  },
+  {
+    "code": "519127",
+    "chineseName": "盛世精选",
+    "pseudo": "ssjx"
+  },
+  {
+    "code": "519128",
+    "chineseName": "月月盈A",
+    "pseudo": "yyyA"
+  },
+  {
+    "code": "519129",
+    "chineseName": "月月盈C",
+    "pseudo": "yyyC"
+  },
+  {
+    "code": "519130",
+    "chineseName": "海富新内",
+    "pseudo": "hfxn"
+  },
+  {
+    "code": "519131",
+    "chineseName": "海富季增",
+    "pseudo": "hfjz"
+  },
+  {
+    "code": "519132",
+    "chineseName": "海富数据",
+    "pseudo": "hfsj"
+  },
+  {
+    "code": "519133",
+    "chineseName": "海富改革",
+    "pseudo": "hfgg"
+  },
+  {
+    "code": "519134",
+    "chineseName": "海富富祥",
+    "pseudo": "hffx"
+  },
+  {
+    "code": "519135",
+    "chineseName": "海富瑞益",
+    "pseudo": "hfry"
+  },
+  {
+    "code": "519136",
+    "chineseName": "海富通瑞丰",
+    "pseudo": "hftrf"
+  },
+  {
+    "code": "519137",
+    "chineseName": "海富瑞福",
+    "pseudo": "hfrf"
+  },
+  {
+    "code": "519138",
+    "chineseName": "海富瑞祥",
+    "pseudo": "hfrx"
+  },
+  {
+    "code": "519139",
+    "chineseName": "沪港深",
+    "pseudo": "hgs"
+  },
+  {
+    "code": "519150",
+    "chineseName": "新华消费",
+    "pseudo": "xhxf"
+  },
+  {
+    "code": "519152",
+    "chineseName": "新华纯债",
+    "pseudo": "xhcz"
+  },
+  {
+    "code": "519153",
+    "chineseName": "新华纯债",
+    "pseudo": "xhcz"
+  },
+  {
+    "code": "519156",
+    "chineseName": "新华配置",
+    "pseudo": "xhpz"
+  },
+  {
+    "code": "519158",
+    "chineseName": "新华趋势",
+    "pseudo": "xhqs"
+  },
+  {
+    "code": "519160",
+    "chineseName": "新华惠A",
+    "pseudo": "xhhA"
+  },
+  {
+    "code": "519161",
+    "chineseName": "新华惠C",
+    "pseudo": "xhhC"
+  },
+  {
+    "code": "519162",
+    "chineseName": "新华增A",
+    "pseudo": "xhzA"
+  },
+  {
+    "code": "519163",
+    "chineseName": "新华增C",
+    "pseudo": "xhzC"
+  },
+  {
+    "code": "519165",
+    "chineseName": "新华鑫利",
+    "pseudo": "xhxl"
+  },
+  {
+    "code": "519167",
+    "chineseName": "新华鑫安",
+    "pseudo": "xhxa"
+  },
+  {
+    "code": "519170",
+    "chineseName": "浦银增长",
+    "pseudo": "pyzz"
+  },
+  {
+    "code": "519171",
+    "chineseName": "浦银医疗",
+    "pseudo": "pyyl"
+  },
+  {
+    "code": "519172",
+    "chineseName": "睿智A",
+    "pseudo": "rzA"
+  },
+  {
+    "code": "519173",
+    "chineseName": "睿智C",
+    "pseudo": "rzC"
+  },
+  {
+    "code": "519175",
+    "chineseName": "浦银崛起",
+    "pseudo": "pyjq"
+  },
+  {
+    "code": "519176",
+    "chineseName": "消费C",
+    "pseudo": "xfC"
+  },
+  {
+    "code": "519177",
+    "chineseName": "盛世C",
+    "pseudo": "ssC"
+  },
+  {
+    "code": "519180",
+    "chineseName": "万家180",
+    "pseudo": "wj180"
+  },
+  {
+    "code": "519181",
+    "chineseName": "万家和谐",
+    "pseudo": "wjhx"
+  },
+  {
+    "code": "519183",
+    "chineseName": "万家引擎",
+    "pseudo": "wjyq"
+  },
+  {
+    "code": "519185",
+    "chineseName": "万家精选",
+    "pseudo": "wjjx"
+  },
+  {
+    "code": "519186",
+    "chineseName": "万家稳增",
+    "pseudo": "wjwz"
+  },
+  {
+    "code": "519188",
+    "chineseName": "万家恒A",
+    "pseudo": "wjhA"
+  },
+  {
+    "code": "519189",
+    "chineseName": "万家恒C",
+    "pseudo": "wjhC"
+  },
+  {
+    "code": "519190",
+    "chineseName": "万家岁得利定期开放",
+    "pseudo": "wjsdldqkf"
+  },
+  {
+    "code": "519191",
+    "chineseName": "万家城建",
+    "pseudo": "wjcj"
+  },
+  {
+    "code": "519192",
+    "chineseName": "万家市政",
+    "pseudo": "wjsz"
+  },
+  {
+    "code": "519193",
+    "chineseName": "万家成长",
+    "pseudo": "wjcz"
+  },
+  {
+    "code": "519195",
+    "chineseName": "万家品质",
+    "pseudo": "wjpz"
+  },
+  {
+    "code": "519196",
+    "chineseName": "万家蓝筹",
+    "pseudo": "wjlc"
+  },
+  {
+    "code": "519197",
+    "chineseName": "万家颐达",
+    "pseudo": "wjyd"
+  },
+  {
+    "code": "519198",
+    "chineseName": "万家颐和",
+    "pseudo": "wjyh"
+  },
+  {
+    "code": "519199",
+    "chineseName": "万家家享",
+    "pseudo": "wjjx"
+  },
+  {
+    "code": "519206",
+    "chineseName": "万家荣A",
+    "pseudo": "wjrA"
+  },
+  {
+    "code": "519207",
+    "chineseName": "万家荣C",
+    "pseudo": "wjrC"
+  },
+  {
+    "code": "519208",
+    "chineseName": "万家祥A",
+    "pseudo": "wjxA"
+  },
+  {
+    "code": "519209",
+    "chineseName": "万家祥C",
+    "pseudo": "wjxC"
+  },
+  {
+    "code": "519210",
+    "chineseName": "万家景A",
+    "pseudo": "wjjA"
+  },
+  {
+    "code": "519211",
+    "chineseName": "万家景C",
+    "pseudo": "wjjC"
+  },
+  {
+    "code": "519220",
+    "chineseName": "海富聚利",
+    "pseudo": "hfjl"
+  },
+  {
+    "code": "519230",
+    "chineseName": "海富富源",
+    "pseudo": "hffy"
+  },
+  {
+    "code": "519300",
+    "chineseName": "大成300A",
+    "pseudo": "dc300A"
+  },
+  {
+    "code": "519320",
+    "chineseName": "聚利A",
+    "pseudo": "jlA"
+  },
+  {
+    "code": "519321",
+    "chineseName": "聚利C",
+    "pseudo": "jlC"
+  },
+  {
+    "code": "519322",
+    "chineseName": "盛元A",
+    "pseudo": "syA"
+  },
+  {
+    "code": "519323",
+    "chineseName": "盛元C",
+    "pseudo": "syC"
+  },
+  {
+    "code": "519324",
+    "chineseName": "盛鑫A",
+    "pseudo": "sxA"
+  },
+  {
+    "code": "519325",
+    "chineseName": "盛鑫C",
+    "pseudo": "sxC"
+  },
+  {
+    "code": "519326",
+    "chineseName": "聚益A",
+    "pseudo": "jyA"
+  },
+  {
+    "code": "519327",
+    "chineseName": "聚益C",
+    "pseudo": "jyC"
+  },
+  {
+    "code": "519328",
+    "chineseName": "盛泰A",
+    "pseudo": "stA"
+  },
+  {
+    "code": "519329",
+    "chineseName": "盛泰C",
+    "pseudo": "stC"
+  },
+  {
+    "code": "519330",
+    "chineseName": "盛跃A",
+    "pseudo": "syA"
+  },
+  {
+    "code": "519331",
+    "chineseName": "盛跃C",
+    "pseudo": "syC"
+  },
+  {
+    "code": "519505",
+    "chineseName": "海富货A",
+    "pseudo": "hfhA"
+  },
+  {
+    "code": "519506",
+    "chineseName": "海富货B",
+    "pseudo": "hfhB"
+  },
+  {
+    "code": "519507",
+    "chineseName": "万家货B",
+    "pseudo": "wjhB"
+  },
+  {
+    "code": "519508",
+    "chineseName": "万家货A",
+    "pseudo": "wjhA"
+  },
+  {
+    "code": "519509",
+    "chineseName": "浦银货A",
+    "pseudo": "pyhA"
+  },
+  {
+    "code": "519510",
+    "chineseName": "浦银货B",
+    "pseudo": "pyhB"
+  },
+  {
+    "code": "519511",
+    "chineseName": "万家14天理财债券",
+    "pseudo": "wj14tlczq"
+  },
+  {
+    "code": "519512",
+    "chineseName": "万家单二",
+    "pseudo": "wjde"
+  },
+  {
+    "code": "519513",
+    "chineseName": "万家单三",
+    "pseudo": "wjds"
+  },
+  {
+    "code": "519518",
+    "chineseName": "添富货币",
+    "pseudo": "tfhb"
+  },
+  {
+    "code": "519519",
+    "chineseName": "友邦增利",
+    "pseudo": "ybzl"
+  },
+  {
+    "code": "519521",
+    "chineseName": "万家双一",
+    "pseudo": "wjsy"
+  },
+  {
+    "code": "519522",
+    "chineseName": "万家双二",
+    "pseudo": "wjse"
+  },
+  {
+    "code": "519523",
+    "chineseName": "万家双三",
+    "pseudo": "wjss"
+  },
+  {
+    "code": "519528",
+    "chineseName": "海富金A",
+    "pseudo": "hfjA"
+  },
+  {
+    "code": "519529",
+    "chineseName": "海富金B",
+    "pseudo": "hfjB"
+  },
+  {
+    "code": "519566",
+    "chineseName": "日日盈A",
+    "pseudo": "rryA"
+  },
+  {
+    "code": "519567",
+    "chineseName": "日日盈B",
+    "pseudo": "rryB"
+  },
+  {
+    "code": "519598",
+    "chineseName": "利息B",
+    "pseudo": "lxB"
+  },
+  {
+    "code": "519599",
+    "chineseName": "利息A",
+    "pseudo": "lxA"
+  },
+  {
+    "code": "519602",
+    "chineseName": "海富中华",
+    "pseudo": "hfzh"
+  },
+  {
+    "code": "519606",
+    "chineseName": "国泰金鑫",
+    "pseudo": "gtjx"
+  },
+  {
+    "code": "519610",
+    "chineseName": "银河旺A",
+    "pseudo": "yhwA"
+  },
+  {
+    "code": "519611",
+    "chineseName": "银河旺C",
+    "pseudo": "yhwC"
+  },
+  {
+    "code": "519613",
+    "chineseName": "银河尚A",
+    "pseudo": "yhsA"
+  },
+  {
+    "code": "519614",
+    "chineseName": "银河尚C",
+    "pseudo": "yhsC"
+  },
+  {
+    "code": "519616",
+    "chineseName": "银河信A",
+    "pseudo": "yhxA"
+  },
+  {
+    "code": "519617",
+    "chineseName": "银河信C",
+    "pseudo": "yhxC"
+  },
+  {
+    "code": "519619",
+    "chineseName": "银河荣A",
+    "pseudo": "yhrA"
+  },
+  {
+    "code": "519620",
+    "chineseName": "银河荣C",
+    "pseudo": "yhrC"
+  },
+  {
+    "code": "519622",
+    "chineseName": "银河君怡",
+    "pseudo": "yhjy"
+  },
+  {
+    "code": "519623",
+    "chineseName": "银河耀A",
+    "pseudo": "yhyA"
+  },
+  {
+    "code": "519624",
+    "chineseName": "银河耀C",
+    "pseudo": "yhyC"
+  },
+  {
+    "code": "519625",
+    "chineseName": "银河盛A",
+    "pseudo": "yhsA"
+  },
+  {
+    "code": "519626",
+    "chineseName": "银河盛C",
+    "pseudo": "yhsC"
+  },
+  {
+    "code": "519627",
+    "chineseName": "君润A",
+    "pseudo": "jrA"
+  },
+  {
+    "code": "519628",
+    "chineseName": "君润C",
+    "pseudo": "jrC"
+  },
+  {
+    "code": "519629",
+    "chineseName": "银河睿A",
+    "pseudo": "yhrA"
+  },
+  {
+    "code": "519630",
+    "chineseName": "银河睿C",
+    "pseudo": "yhrC"
+  },
+  {
+    "code": "519631",
+    "chineseName": "银河君欣",
+    "pseudo": "yhjx"
+  },
+  {
+    "code": "519632",
+    "chineseName": "银河君辉",
+    "pseudo": "yhjh"
+  },
+  {
+    "code": "519633",
+    "chineseName": "君腾A",
+    "pseudo": "jtA"
+  },
+  {
+    "code": "519634",
+    "chineseName": "君腾C",
+    "pseudo": "jtC"
+  },
+  {
+    "code": "519640",
+    "chineseName": "银河鸿A",
+    "pseudo": "yhhA"
+  },
+  {
+    "code": "519641",
+    "chineseName": "银河鸿C",
+    "pseudo": "yhhC"
+  },
+  {
+    "code": "519642",
+    "chineseName": "银河智造",
+    "pseudo": "yhzz"
+  },
+  {
+    "code": "519644",
+    "chineseName": "银河智联混合",
+    "pseudo": "yhzlhh"
+  },
+  {
+    "code": "519649",
+    "chineseName": "银河犇A",
+    "pseudo": "yhbA"
+  },
+  {
+    "code": "519650",
+    "chineseName": "银河犇C",
+    "pseudo": "yhbC"
+  },
+  {
+    "code": "519651",
+    "chineseName": "银河转型",
+    "pseudo": "yhzx"
+  },
+  {
+    "code": "519652",
+    "chineseName": "银河鑫A",
+    "pseudo": "yhxA"
+  },
+  {
+    "code": "519653",
+    "chineseName": "银河鑫C",
+    "pseudo": "yhxC"
+  },
+  {
+    "code": "519654",
+    "chineseName": "银河泽利",
+    "pseudo": "yhzl"
+  },
+  {
+    "code": "519655",
+    "chineseName": "银河服务",
+    "pseudo": "yhfw"
+  },
+  {
+    "code": "519656",
+    "chineseName": "银河灵A",
+    "pseudo": "yhlA"
+  },
+  {
+    "code": "519657",
+    "chineseName": "银河灵C",
+    "pseudo": "yhlC"
+  },
+  {
+    "code": "519658",
+    "chineseName": "家多宝A",
+    "pseudo": "jdbA"
+  },
+  {
+    "code": "519659",
+    "chineseName": "家多宝C",
+    "pseudo": "jdbC"
+  },
+  {
+    "code": "519660",
+    "chineseName": "银河增A",
+    "pseudo": "yhzA"
+  },
+  {
+    "code": "519661",
+    "chineseName": "银河增C",
+    "pseudo": "yhzC"
+  },
+  {
+    "code": "519662",
+    "chineseName": "银河回A",
+    "pseudo": "yhhA"
+  },
+  {
+    "code": "519663",
+    "chineseName": "银河回C",
+    "pseudo": "yhhC"
+  },
+  {
+    "code": "519664",
+    "chineseName": "美丽A",
+    "pseudo": "mlA"
+  },
+  {
+    "code": "519665",
+    "chineseName": "美丽C",
+    "pseudo": "mlC"
+  },
+  {
+    "code": "519666",
+    "chineseName": "银河银信添利债券",
+    "pseudo": "yhyxtlzq"
+  },
+  {
+    "code": "519668",
+    "chineseName": "银河成长",
+    "pseudo": "yhcz"
+  },
+  {
+    "code": "519669",
+    "chineseName": "银河领先",
+    "pseudo": "yhlx"
+  },
+  {
+    "code": "519670",
+    "chineseName": "银河行业",
+    "pseudo": "yhxy"
+  },
+  {
+    "code": "519671",
+    "chineseName": "300价值",
+    "pseudo": "300jz"
+  },
+  {
+    "code": "519672",
+    "chineseName": "银河蓝筹",
+    "pseudo": "yhlc"
+  },
+  {
+    "code": "519673",
+    "chineseName": "银河康乐",
+    "pseudo": "yhkl"
+  },
+  {
+    "code": "519674",
+    "chineseName": "银河创新",
+    "pseudo": "yhcx"
+  },
+  {
+    "code": "519675",
+    "chineseName": "银河润利混合",
+    "pseudo": "yhrlhh"
+  },
+  {
+    "code": "519676",
+    "chineseName": "银河保本",
+    "pseudo": "yhbb"
+  },
+  {
+    "code": "519677",
+    "chineseName": "定投宝",
+    "pseudo": "dtb"
+  },
+  {
+    "code": "519678",
+    "chineseName": "银河消费",
+    "pseudo": "yhxf"
+  },
+  {
+    "code": "519679",
+    "chineseName": "银河主题",
+    "pseudo": "yhzt"
+  },
+  {
+    "code": "519680",
+    "chineseName": "交银增利",
+    "pseudo": "jyzl"
+  },
+  {
+    "code": "519683",
+    "chineseName": "交银双利",
+    "pseudo": "jysl"
+  },
+  {
+    "code": "519688",
+    "chineseName": "交银精选",
+    "pseudo": "jyjx"
+  },
+  {
+    "code": "519690",
+    "chineseName": "交银稳健",
+    "pseudo": "jywj"
+  },
+  {
+    "code": "519692",
+    "chineseName": "交银成长",
+    "pseudo": "jycz"
+  },
+  {
+    "code": "519694",
+    "chineseName": "交银蓝筹",
+    "pseudo": "jylc"
+  },
+  {
+    "code": "519698",
+    "chineseName": "交银先锋",
+    "pseudo": "jyxf"
+  },
+  {
+    "code": "519700",
+    "chineseName": "交银主题",
+    "pseudo": "jyzt"
+  },
+  {
+    "code": "519702",
+    "chineseName": "交银趋势",
+    "pseudo": "jyqs"
+  },
+  {
+    "code": "519704",
+    "chineseName": "交银制造",
+    "pseudo": "jyzz"
+  },
+  {
+    "code": "519706",
+    "chineseName": "交银价值",
+    "pseudo": "jyjz"
+  },
+  {
+    "code": "519712",
+    "chineseName": "交银核心",
+    "pseudo": "jyhx"
+  },
+  {
+    "code": "519714",
+    "chineseName": "交银等权",
+    "pseudo": "jydq"
+  },
+  {
+    "code": "519718",
+    "chineseName": "交银纯债",
+    "pseudo": "jycz"
+  },
+  {
+    "code": "519723",
+    "chineseName": "交银双轮",
+    "pseudo": "jysl"
+  },
+  {
+    "code": "519727",
+    "chineseName": "交银30",
+    "pseudo": "jy30"
+  },
+  {
+    "code": "519733",
+    "chineseName": "交银强债",
+    "pseudo": "jyqz"
+  },
+  {
+    "code": "519800",
+    "chineseName": "保证金A",
+    "pseudo": "bzjA"
+  },
+  {
+    "code": "519801",
+    "chineseName": "保证金B",
+    "pseudo": "bzjB"
+  },
+  {
+    "code": "519808",
+    "chineseName": "嘉实宝A/B",
+    "pseudo": "jsbA/B"
+  },
+  {
+    "code": "519858",
+    "chineseName": "广发现金宝场内货币",
+    "pseudo": "gfxjbcnhb"
+  },
+  {
+    "code": "519878",
+    "chineseName": "国保A",
+    "pseudo": "gbA"
+  },
+  {
+    "code": "519886",
+    "chineseName": "安心利A",
+    "pseudo": "axlA"
+  },
+  {
+    "code": "519887",
+    "chineseName": "安心利B",
+    "pseudo": "axlB"
+  },
+  {
+    "code": "519888",
+    "chineseName": "添富快线",
+    "pseudo": "tfkx"
+  },
+  {
+    "code": "519889",
+    "chineseName": "添富快B",
+    "pseudo": "tfkB"
+  },
+  {
+    "code": "519898",
+    "chineseName": "现金宝A",
+    "pseudo": "xjbA"
+  },
+  {
+    "code": "519899",
+    "chineseName": "现金宝B",
+    "pseudo": "xjbB"
+  },
+  {
+    "code": "519908",
+    "chineseName": "基金兴华",
+    "pseudo": "jjxh"
+  },
+  {
+    "code": "519909",
+    "chineseName": "安顺配置",
+    "pseudo": "aspz"
+  },
+  {
+    "code": "519915",
+    "chineseName": "富国消费主题混合",
+    "pseudo": "fgxfzthh"
+  },
+  {
+    "code": "519918",
+    "chineseName": "基金兴和",
+    "pseudo": "jjxh"
+  },
+  {
+    "code": "519929",
+    "chineseName": "信息量化",
+    "pseudo": "xxlh"
+  },
+  {
+    "code": "519933",
+    "chineseName": "长信利发",
+    "pseudo": "zxlf"
+  },
+  {
+    "code": "519935",
+    "chineseName": "长信创新",
+    "pseudo": "zxcx"
+  },
+  {
+    "code": "519937",
+    "chineseName": "长信先锐",
+    "pseudo": "zxxr"
+  },
+  {
+    "code": "519939",
+    "chineseName": "长信海外",
+    "pseudo": "zxhw"
+  },
+  {
+    "code": "519940",
+    "chineseName": "富全C",
+    "pseudo": "fqC"
+  },
+  {
+    "code": "519941",
+    "chineseName": "富全A",
+    "pseudo": "fqA"
+  },
+  {
+    "code": "519942",
+    "chineseName": "富泰C",
+    "pseudo": "ftC"
+  },
+  {
+    "code": "519943",
+    "chineseName": "富泰A",
+    "pseudo": "ftA"
+  },
+  {
+    "code": "519944",
+    "chineseName": "富安C",
+    "pseudo": "faC"
+  },
+  {
+    "code": "519944",
+    "chineseName": "富安C",
+    "pseudo": "faC"
+  },
+  {
+    "code": "519944",
+    "chineseName": "富安C",
+    "pseudo": "faC"
+  },
+  {
+    "code": "519945",
+    "chineseName": "富安A",
+    "pseudo": "faA"
+  },
+  {
+    "code": "519947",
+    "chineseName": "长信利保",
+    "pseudo": "zxlb"
+  },
+  {
+    "code": "519949",
+    "chineseName": "长信利信",
+    "pseudo": "zxlx"
+  },
+  {
+    "code": "519951",
+    "chineseName": "长信利泰",
+    "pseudo": "zxlt"
+  },
+  {
+    "code": "519955",
+    "chineseName": "长信富民",
+    "pseudo": "zxfm"
+  },
+  {
+    "code": "519956",
+    "chineseName": "睿进C",
+    "pseudo": "rjC"
+  },
+  {
+    "code": "519957",
+    "chineseName": "睿进A",
+    "pseudo": "rjA"
+  },
+  {
+    "code": "519959",
+    "chineseName": "长信多利",
+    "pseudo": "zxdl"
+  },
+  {
+    "code": "519960",
+    "chineseName": "利广C",
+    "pseudo": "lgC"
+  },
+  {
+    "code": "519961",
+    "chineseName": "利广A",
+    "pseudo": "lgA"
+  },
+  {
+    "code": "519962",
+    "chineseName": "利盈C",
+    "pseudo": "lyC"
+  },
+  {
+    "code": "519963",
+    "chineseName": "利盈A",
+    "pseudo": "lyA"
+  },
+  {
+    "code": "519965",
+    "chineseName": "量化策略",
+    "pseudo": "lhcl"
+  },
+  {
+    "code": "519967",
+    "chineseName": "长信利富",
+    "pseudo": "zxlf"
+  },
+  {
+    "code": "519969",
+    "chineseName": "长信新利",
+    "pseudo": "zxxl"
+  },
+  {
+    "code": "519971",
+    "chineseName": "长信GGHL",
+    "pseudo": "zxGGHL"
+  },
+  {
+    "code": "519972",
+    "chineseName": "CX纯债C",
+    "pseudo": "CXczC"
+  },
+  {
+    "code": "519973",
+    "chineseName": "CX纯债A",
+    "pseudo": "CXczA"
+  },
+  {
+    "code": "519975",
+    "chineseName": "CXLH中小",
+    "pseudo": "CXLHzx"
+  },
+  {
+    "code": "519976",
+    "chineseName": "CX转债C",
+    "pseudo": "CXzzC"
+  },
+  {
+    "code": "519977",
+    "chineseName": "CX转债A",
+    "pseudo": "CXzzA"
+  },
+  {
+    "code": "519979",
+    "chineseName": "长信内需",
+    "pseudo": "zxnx"
+  },
+  {
+    "code": "519981",
+    "chineseName": "长信标普",
+    "pseudo": "zxbp"
+  },
+  {
+    "code": "519983",
+    "chineseName": "长信量化",
+    "pseudo": "zxlh"
+  },
+  {
+    "code": "519985",
+    "chineseName": "长信CZYH",
+    "pseudo": "zxCZYH"
+  },
+  {
+    "code": "519987",
+    "chineseName": "长信恒利",
+    "pseudo": "zxhl"
+  },
+  {
+    "code": "519989",
+    "chineseName": "长信利丰",
+    "pseudo": "zxlf"
+  },
+  {
+    "code": "519991",
+    "chineseName": "长信双利",
+    "pseudo": "zxsl"
+  },
+  {
+    "code": "519993",
+    "chineseName": "长信增利",
+    "pseudo": "zxzl"
+  },
+  {
+    "code": "519995",
+    "chineseName": "长信金利",
+    "pseudo": "zxjl"
+  },
+  {
+    "code": "521192",
+    "chineseName": "万家市政",
+    "pseudo": "wjsz"
+  },
+  {
+    "code": "521305",
+    "chineseName": "嘉实元和",
+    "pseudo": "jsyh"
+  },
+  {
+    "code": "550001",
+    "chineseName": "信诚四季红",
+    "pseudo": "xcsjh"
+  },
+  {
+    "code": "550002",
+    "chineseName": "信诚精萃成长",
+    "pseudo": "xcjccz"
+  }
+]
